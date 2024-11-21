@@ -24,3 +24,15 @@
   
   ![image](https://github.com/user-attachments/assets/9029b55a-05d3-4065-ae8b-64113a67cde6)
 </h4>
+<br>
+
+<h2 align="center">
+📹 Link dos videos de demonstração:
+</h2>
+
+<h4 align="center">
+  
+🗂️Link do desenho 3D: https://youtu.be/ySQUL4sCtXw
+
+🗂️Link da Simulação (TinkerCad): https://youtu.be/3wunlcAYFIM
+</h4>
